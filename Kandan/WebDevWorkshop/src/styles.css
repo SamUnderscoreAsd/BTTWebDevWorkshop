@@ -1,0 +1,13 @@
+div {
+    border-style: solid;
+    width : 500px;
+}
+
+#title{
+    margin : 40px;
+}
+
+.lists {
+    margin : 20px;
+    font-size: 25px;
+}
